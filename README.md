@@ -2,7 +2,8 @@
 
 ## 💻 Preview :
 
-https://media.discordapp.net/attachments/1122822670015287296/1122917935099416596/image.png?width=851&height=401
+![image](https://github.com/H4cK3dR4Du/Github-Profile-View-Booster/assets/118562174/5c6a41f8-e292-4889-b184-dc05619f9330)
+
 
 ## 🔥 Features 🔥
 - Fully httpx Request View Booster
