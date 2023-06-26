@@ -3,6 +3,7 @@ import time
 import os
 import random
 import string
+import ctypes
 
 try:
     import pystyle
@@ -107,6 +108,7 @@ def view_booster():
         github_link = data.get('github_link')
     global views_sent
     while True:
+        ctypes.windll.kernel32.SetConsoleTitleW(f'Github Profile View Booster | By H4cK3dR4Du#0001 | Views Sent : {views_sent}')
         date = datetime.datetime.now()
         hour = date.hour
         minute = date.minute
